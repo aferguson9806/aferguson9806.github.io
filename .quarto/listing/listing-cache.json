@@ -1,6 +1,10 @@
 {
   "listingMap": {
+<<<<<<< Updated upstream
     "blog.qmd": [
+=======
+    "index.qmd": [
+>>>>>>> Stashed changes
       "posts"
     ]
   }

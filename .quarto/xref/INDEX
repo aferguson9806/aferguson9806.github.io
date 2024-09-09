@@ -1,5 +1,6 @@
 {
   "index.qmd": {
+<<<<<<< Updated upstream
     "index.html": "61f90ed1"
   },
   "blog.qmd": {
@@ -10,5 +11,17 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "71675d17"
+=======
+    "index.html": "e2407325"
+  },
+  "about.qmd": {
+    "about.html": "3ee742df"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "1f9ee90e"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "be793bc0"
+>>>>>>> Stashed changes
   }
 }
