@@ -1,23 +1,23 @@
 project:
   type: website
-  output-dir: docs
 
 website:
+  site-url: https://happy-valley-arts.com
   page-footer:
     left: "The Arts in Happy Valley | 2024"
     right:
+      - text: "{{< iconify memory:email >}} Subsscribe to the Newsletter"
+        href: "https://magic.beehiiv.com/v1/b6ade0aa-ce61-466f-a5af-1088cd62508e"
       - text: "{{< iconify memory:coffee >}} Support my work with a coffee"
-        href: https://google.com
+        href: https://www.buymeacoffee.com/aferguson93
   title: "The Arts in Happy Valley"
   description: A blog dedicated to the arts in Happy Valley, Pennsylvania.
   navbar:
     right:
       - text: Blog
         href: blog.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: rss
+        href: blog.xml
 format:
   html:
     theme: lux
