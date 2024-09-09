@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  google-analytics: G-GK3FJRW2VX
   site-url: https://happy-valley-arts.com
   page-footer:
     left: "The Arts in Happy Valley | 2024"
@@ -13,6 +14,7 @@ website:
   title: "The Arts in Happy Valley"
   description: A blog dedicated to the arts in Happy Valley, Pennsylvania.
   navbar:
+    logo: "images/AHV-logo1.png"
     right:
       - text: Blog
         href: blog.qmd
