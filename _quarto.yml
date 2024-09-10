@@ -4,6 +4,10 @@ project:
 website:
   favicon: images/favicon-32x32.png
   google-analytics: G-GK3FJRW2VX
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
   site-url: https://happy-valley-arts.com
   page-footer:
     left: "The Arts in Happy Valley | 2024"
