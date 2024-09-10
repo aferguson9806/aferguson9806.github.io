@@ -4,7 +4,7 @@ image: images/andrew_portrait_2024.jpg
 about:
   template: solana
   links:
-    - icon: mail
+    - icon: mailbox
       text: E-Mail
       href: 'mailto:andrew@happy-valley-arts.com'
     - icon: linkedin
