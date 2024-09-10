@@ -1,5 +1,5 @@
 ---
-title: "The Latest | Arts in Happy Valley"
+title: "The Latest"
 listing:
   contents: posts
   sort: "date desc"
@@ -8,6 +8,7 @@ listing:
   sort-ui: false
   filter-ui: false
   feed: true
+  fields: [image, date, title, author, subtitle]
 page-layout: full
 ---
 

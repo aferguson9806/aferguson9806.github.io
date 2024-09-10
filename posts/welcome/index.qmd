@@ -1,12 +1,42 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-09-05"
-categories: [news]
+title: "Welcome to: The Arts in Happy Valley"
+author: "Andrew Ferguson"
+date: "2024-09-09"
+subtitle: The first installment of this series. Welcomes, introductions, my plan and strategy, and how to connect.
+categories: [meta]
+image: thumbnail.jpg
 ---
 
-This is the first post in a Quarto blog. Welcome!
+# Welcome to: The Arts in Happy Valley
 
-![](thumbnail.jpg)
+## Introductions
+Hey, it's good to be here. My name's Andrew. I live and work in Happy Valley, Pennsylvania, I love making websites, and I'm passionate about the arts. Hopefully, these three facts about me are evident, and are what brought you here.
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+While I didn't attend Penn State, I've been around the area my whole life. Both of my parents are Nittany Lions, met here at University Park, got married in Eisenhower Chapel, and are now settled here for their **well-deserved** retirement.
+
+In the arts, I'm most familiar with music. I studied Ethnomusicology in my time as an undergraduate student, which involved immersion in musical idioms from around the world. Presently, I am also a part-time graduate student studying Public Heritage and Museum Practice.
+
+## Purpose
+My aims in starting this project are both internal and external.
+- Intrinsically, I want to motivate myself to engage with the plethora of local art in the Centre County region; it's out there and I certainly want to be paying attention. I want to hone in on my own abilities as a writer and as a critical thinker about art.
+- Extrinsically, I want to motivate others to do the same. Join me in discovering all that Happy Valley has to offer.
+
+## Plan
+I intend to publish one *digest*, weekly, on the various art and art-adjacent activities I've been engaged with - whether that's an interview with a local band I've learned about lately, an account of a nearby gallery I visited, or even a seasonal update on the cocktail offerings at Chumley's.
+
+My first post (second if you count this inauguration) will be on the **Bellefonte Museum of Art**. Look for that article the week of September 16th. I'm looking forward to visiting and collecting my observations. I hope you look forward to reading.
+
+## In Conversation
+At the bottom of this post, there is a comments section. Leave a comment if there is something around Happy Valley you think I should visit and write about. Or, leave a comment on the kinds of content you want to see me write about. I hope to start a conversation there.
+
+## Closing
+I think art should be for everyone. While I am not an artist or a scholar of art by any means of the traditional definition, I plan to engage with the local art community in good faith, and I hope to inspire some readers to do the same.
+
+-Andrew
+
+
+
+
+
+
+

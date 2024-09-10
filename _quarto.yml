@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: images/favicon-32x32.png
   google-analytics: G-GK3FJRW2VX
   site-url: https://happy-valley-arts.com
   page-footer:
@@ -14,12 +15,13 @@ website:
   title: "The Arts in Happy Valley"
   description: A blog dedicated to the arts in Happy Valley, Pennsylvania.
   navbar:
-    logo: "images/AHV-logo1.png"
     right:
       - text: Blog
         href: blog.qmd
       - icon: rss
         href: blog.xml
+  sidebar:
+    logo: images/AHV-logo1.png
 format:
   html:
     theme: lux
