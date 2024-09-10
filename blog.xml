@@ -10,32 +10,10 @@
 <atom:link href="https://happy-valley-arts.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description>A blog dedicated to the arts in Happy Valley, Pennsylvania.</description>
 <generator>quarto-1.5.55</generator>
-<lastBuildDate>Sun, 08 Sep 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Sep 2024 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://happy-valley-arts.com/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://happy-valley-arts.com/posts/post-with-code/</guid>
-  <pubDate>Sun, 08 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://happy-valley-arts.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <title>Welcome to: The Arts in Happy Valley</title>
+  <dc:creator>Andrew Ferguson</dc:creator>
   <link>https://happy-valley-arts.com/posts/welcome/</link>
   <description><![CDATA[ 
 
@@ -43,16 +21,41 @@
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://happy-valley-arts.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<section id="welcome-to-the-arts-in-happy-valley" class="level1">
+<h1>Welcome to: The Arts in Happy Valley</h1>
+<section id="introductions" class="level2">
+<h2 class="anchored" data-anchor-id="introductions">Introductions</h2>
+<p>Hey, it’s good to be here. My name’s Andrew. I live and work in Happy Valley, Pennsylvania, I love making websites, and I’m passionate about the arts. Hopefully, these three facts about me are evident, and are what brought you here.</p>
+<p>While I didn’t attend Penn State, I’ve been around the area my whole life. Both of my parents are Nittany Lions, met here at University Park, got married in Eisenhower Chapel, and are now settled here for their <strong>well-deserved</strong> retirement.</p>
+<p>In the arts, I’m most familiar with music. I studied Ethnomusicology in my time as an undergraduate student, which involved immersion in musical idioms from around the world. Presently, I am also a part-time graduate student studying Public Heritage and Museum Practice.</p>
+</section>
+<section id="purpose" class="level2">
+<h2 class="anchored" data-anchor-id="purpose">Purpose</h2>
+<p>My aims in starting this project are both internal and external. - Intrinsically, I want to motivate myself to engage with the plethora of local art in the Centre County region; it’s out there and I certainly want to be paying attention. I want to hone in on my own abilities as a writer and as a critical thinker about art. - Extrinsically, I want to motivate others to do the same. Join me in discovering all that Happy Valley has to offer.</p>
+</section>
+<section id="plan" class="level2">
+<h2 class="anchored" data-anchor-id="plan">Plan</h2>
+<p>I intend to publish one <em>digest</em>, weekly, on the various art and art-adjacent activities I’ve been engaged with - whether that’s an interview with a local band I’ve learned about lately, an account of a nearby gallery I visited, or even a seasonal update on the cocktail offerings at Chumley’s.</p>
+<p>My first post (second if you count this inauguration) will be on the <strong>Bellefonte Museum of Art</strong>. Look for that article the week of September 16th. I’m looking forward to visiting and collecting my observations. I hope you look forward to reading.</p>
+</section>
+<section id="in-conversation" class="level2">
+<h2 class="anchored" data-anchor-id="in-conversation">In Conversation</h2>
+<p>At the bottom of this post, there is a comments section. Leave a comment if there is something around Happy Valley you think I should visit and write about. Or, leave a comment on the kinds of content you want to see me write about. I hope to start a conversation there.</p>
+</section>
+<section id="closing" class="level2">
+<h2 class="anchored" data-anchor-id="closing">Closing</h2>
+<p>I think art should be for everyone. While I am not an artist or a scholar of art by any means of the traditional definition, I plan to engage with the local art community in good faith, and I hope to inspire some readers to do the same.</p>
+<p>-Andrew</p>
 
 
+</section>
+</section>
 
  ]]></description>
-  <category>news</category>
+  <category>meta</category>
   <guid>https://happy-valley-arts.com/posts/welcome/</guid>
-  <pubDate>Thu, 05 Sep 2024 04:00:00 GMT</pubDate>
+  <pubDate>Mon, 09 Sep 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://happy-valley-arts.com/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
