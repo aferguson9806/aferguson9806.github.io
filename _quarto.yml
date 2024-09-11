@@ -18,6 +18,7 @@ website:
         href: https://www.buymeacoffee.com/aferguson93
   title: "The Arts in Happy Valley"
   description: A blog dedicated to the arts in Happy Valley, Pennsylvania.
+  twitter-card: true
   navbar:
     right:
       - text: Blog
