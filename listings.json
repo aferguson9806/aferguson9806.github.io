@@ -2,7 +2,12 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/sept12_24/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/posts/sept12_24/index.html",
+    "items": []
   }
 ]
