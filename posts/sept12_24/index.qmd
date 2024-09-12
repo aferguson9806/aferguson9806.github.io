@@ -1,0 +1,66 @@
+---
+title: "Panna Fresca at the Zoller Gallery"
+author: "Andrew Ferguson"
+date: "2024-09-12"
+subtitle: Exploring the New Faculty show at the Zoller Gallery, Penn State School of Visual Arts
+categories: [Visual Arts, On-Campus]
+image: photos/thumbnail.jpeg
+
+listing:
+  id: listing-gallery
+  template: gallery.ejs
+  contents: photos/*
+  sort-ui: false
+  filter-ui: false
+  categories: false
+---
+
+# Panna Fresca | New Visual Arts Faculty Show
+Panna Fresca, translated from Italian, means "Fresh Cream." An apt name for the School of Visual Arts' new faculty display at Penn State. Located in the [Edwin W. Zoller Gallery](https://arts.psu.edu/facilities/zoller-gallery/), this exhibit highlighted selected works by new faculty in the School of Visual Arts. Featured faculty artists are:
+
+- [Michelle Hinjosa](https://michelleinezhinojosa.com/)
+- [Austin Caskie](https://www.austincaskie.com/)
+- [Beatrice Atencah](https://atencahb.art/)
+- [Di Tian](https://www.ditianarts.com/)
+- [Kumasi Barnett](https://www.kumasijbarnett.com/)
+
+## My visit
+I visited the gallery on the morning of September 12th. After beginning my writing journey, I've been parsing through various local community calendars ([thanks WPSU!](https://radio.wpsu.org/community-calendar)), Penn State art news postings, and official announcements looking for new ways I can immerse myself in the local art scene around Happy Valley. I went into the showing blind with no expectations or prior knowledge of the new faculty members' work. It wasn't until I arrived at the Zoller gallery that I learned who the new faculty members were. I also learned, upon arrival, that there is a gallery reception on the 24th of September. I think I'll go back, hoping that I'll be able to have a conversation with an artist or a few.
+
+## ... and other stories
+The installation that caught my attention immediately was displayed on the far wall of the gallery relative to the entrance.
+
+![... and other stories](photos\IMG_4654.JPEG){.lightbox}
+
+I'm not well-versed in comic book canon, but I was drawn to this piece by Kumasi Barnett. At first, I thought these were genuine comic books. All of them, however, seem like interpretations of real comic book characters and series, but modified to say things like "The Amazing Black-Man" instead of "The Amazing Spider-Man." After returning from the exhibit, I did some reading on this display, and the comic books are all hand-painted. In 2019, Barnett's "The Amazing Black-Man" was housed at the Los Angeles-based contemporary art gallery [Lowell Ryan Projects](https://www.lowellryanprojects.com/). From the gallery's [piece on this installation](https://www.lowellryanprojects.com/the-amazing-blackman), I learned that Barnett used real comic books, but painted over recognizable characters like Spider-Man and Captain America. Instead, Barnett reenvisions their heroes and villains with subjects like "Cash in America," and "White Fright."
+
+:::: {.columns}
+
+::: {.column width="45%"}
+![White Fright](photos\IMG_4660.JPEG){.lightbox}
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="45%"}
+![America versus America](photos\IMG_4661.JPEG){.lightbox}
+:::
+
+::::
+
+
+From the previously mentioned 2019 article on this installation:
+
+> A traditional comic book narrative is founded on a simple plot structure: there is a villain that the police cannot contain, and so a citizen superhero steps in to save the day. Barnett clearly complicates this narrative. In a genre filled with rigid tropes, his work is imbued with ambiguities: What kind of superhero is The Amazing Black-Man? In a society built on systemic racism, does his brown mask hide his identity or define it? Is his costume actually a costume? More importantly, what are his superpowers? How will he triumph over his foe?
+
+This work raises many questions, perhaps some that I'd like to ask of Barnett now that he is a faculty member in the School of Visual Arts. **I'll certainly have to return for the reception.**
+
+## Some other photos
+Take a moment to preview some of the other works I captured at the Zoller Gallery's Panna Fresca:
+
+
+
+::: {#listing-gallery}
+:::
