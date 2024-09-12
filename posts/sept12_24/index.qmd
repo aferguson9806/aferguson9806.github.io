@@ -4,7 +4,7 @@ author: "Andrew Ferguson"
 date: "2024-09-12"
 subtitle: Exploring the New Faculty show at the Zoller Gallery, Penn State School of Visual Arts
 categories: [Visual Arts, On-Campus]
-image: photos/thumbnail.jpeg
+image: thumbnail.jpeg
 
 listing:
   id: listing-gallery
