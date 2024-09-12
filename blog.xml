@@ -118,9 +118,6 @@ img.grid-item:hover {
 <div>
 <p><a href="../..\posts\sept12_24\photos\IMG_4661.JPEG" class="lightbox" data-gallery="quarto-grid-gallery"><img src="https://happy-valley-arts.com/posts/sept12_24/photos/IMG_4661.JPEG" class="grid-item img-fluid" loading="lazy"></a></p>
 </div>
-<div>
-<p><a href="../..\posts\sept12_24\photos\thumbnail.JPEG" class="lightbox" data-gallery="quarto-grid-gallery"><img src="https://happy-valley-arts.com/posts/sept12_24/photos/thumbnail.JPEG" class="grid-item img-fluid" loading="lazy"></a></p>
-</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -137,7 +134,7 @@ No matching items
   <category>On-Campus</category>
   <guid>https://happy-valley-arts.com/posts/sept12_24/</guid>
   <pubDate>Thu, 12 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://happy-valley-arts.com/posts/sept12_24/photos/thumbnail.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://happy-valley-arts.com/posts/sept12_24/thumbnail.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome to: The Arts in Happy Valley</title>
